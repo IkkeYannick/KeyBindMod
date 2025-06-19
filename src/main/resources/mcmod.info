@@ -1,8 +1,8 @@
 [
   {
     "modid": "${modid}",
-    "name": "Xample Mod",
-    "description": "A mod that is used as an example.",
+    "name": "KeyBindMod",
+    "description": "Mod Created by IkkeYannick to swap Attack and Space for easy garden farming.",
     "version": "${version}",
     "mcversion": "${mcversion}",
     "url": "https://github.com/romangraef/Forge1.8.9Template/",
